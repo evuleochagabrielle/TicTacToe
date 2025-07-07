@@ -10,13 +10,13 @@ Welcome screen for player name input
 Pop-up winner message with sound
 Draw detection
 
-🚀 How to Run
+ How to Run
 Open project in IntelliJ or any Java IDE.
 Ensure the folder structure matches the package declarations.
 Place a victory.wav file in your project root directory.
 Run Main.java from the main package.
 
-👨‍💻 Contributors
+Contributors
 GABRIELLE CHINONYEREM EVULEOCHA-BHU/23/04/05/0023
 STEPHANIE OJONE ONOJABHU/23/04/05/0027
 ALEXANDAR CHINONSO INENEMOH-BHU/23/04/05/0010
